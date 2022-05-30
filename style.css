@@ -370,7 +370,6 @@ footer{
   }
   header {
     flex-direction: column;
-    position: relative;
   }
   #menu-icon{
       display: block;
